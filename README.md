@@ -12,6 +12,10 @@ Chapman, David. [Meaningness](https://meaningness.com/)
 
 Cole, David. [Why Mechanics Design](https://medium.com/quora-design/why-mechanics-design-90bdbd97151a)
 
+Foundalis, Harry. [Index of Bongard Problems](http://www.foundalis.com/res/bps/bpidx.htm)
+
+Johnstone, Keith. [Impro: Improvisation and the Theatre](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178) 
+
 Lantz, Frank. [This is your brain on games](http://www.gdcvault.com/play/1025011/This-is-Your-Brain-on)
 
 Lost Garden. [Building a Princess Saving App](http://lunar.lostgarden.com/Mixing_Games_and_Applications.pdf)
@@ -23,4 +27,3 @@ Morgan. Garett. [Images of Organization](https://www.amazon.com/Images-Organizat
 Stein, Gertrude. [Picasso](https://nick-barr-bypm.squarespace.com/s/Stein-on-Picasso.pdf)
 
 Williams, William Carlos. [Introduction to The Wedge](https://www.poetryfoundation.org/articles/69410/introduction-to-the-wedge)
-
