@@ -1,6 +1,6 @@
 # Systems Design 101
 ## Overview
-By learning to design systems, we gain understanding of the systems in which we exist and participate. We also learn to see systems as fluid, which helps us become more dexterous in our ability to create, change, and conform to them. 
+By learning to design systems, we gain understanding of the hidden systems in which we already exist and participate. We also learn to see systems as fluid, which helps us become more dexterous at creating, changing, and conforming to them. 
 
 Systems designers are well-suited for product and game design, the creation and influence of organizations, and spiritual practice. 
 
