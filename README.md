@@ -7,9 +7,7 @@ As we become better systems designers, we become more skillful at product and ga
 ## Materials
 
 Burbea, Robert. [Seeing that Frees](https://www.amazon.com/Seeing-That-Frees-Robert-Burbea/dp/0992848911)
-
 Chapman, David. [Meaningness](https://meaningness.com/)
-
 Cole, David. [Why Mechanics Design](https://medium.com/quora-design/why-mechanics-design-90bdbd97151a)
 
 Lantz, Frank. [This is your brain on games](http://www.gdcvault.com/play/1025011/This-is-Your-Brain-on)
