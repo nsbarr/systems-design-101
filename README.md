@@ -24,6 +24,8 @@ Meadows, Donella H. [Thinking in Systems](https://wtf.tw/ref/meadows.pdf)
 
 Morgan. Garett. [Images of Organization](https://www.amazon.com/Images-Organization-Gareth-Morgan/dp/1412939798)
 
+Schell, Jesse. [The Art of Game Design: A Deck of Lenses](https://www.amazon.com/Art-Game-Design-Lenses-Second/dp/0692288872/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=8KQ81G91FPK8WN703FJC)
+
 Stein, Gertrude. [Picasso](https://nick-barr-bypm.squarespace.com/s/Stein-on-Picasso.pdf)
 
 Williams, William Carlos. [Introduction to The Wedge](https://www.poetryfoundation.org/articles/69410/introduction-to-the-wedge)
