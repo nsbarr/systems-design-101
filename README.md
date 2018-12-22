@@ -16,6 +16,8 @@ Lantz, Frank. [This is your brain on games](http://www.gdcvault.com/play/1025011
 
 Lost Garden. [Building a Princess Saving App](http://lunar.lostgarden.com/Mixing_Games_and_Applications.pdf)
 
+Meadows, Donella H. [Thinking in Systems](https://wtf.tw/ref/meadows.pdf)
+
 Morgan. Garett. [Images of Organization](https://www.amazon.com/Images-Organization-Gareth-Morgan/dp/1412939798)
 
 Stein, Gertrude. [Picasso](https://nick-barr-bypm.squarespace.com/s/Stein-on-Picasso.pdf)
