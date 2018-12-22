@@ -16,7 +16,7 @@ Foundalis, Harry. [Index of Bongard Problems](http://www.foundalis.com/res/bps/b
 
 Johnstone, Keith. [Impro: Improvisation and the Theatre](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178) 
 
-Lantz, Frank. [This is your brain on games](http://www.gdcvault.com/play/1025011/This-is-Your-Brain-on)
+Lantz, Frank. [This is Your Brain on Games](http://www.gdcvault.com/play/1025011/This-is-Your-Brain-on)
 
 Lost Garden. [Building a Princess Saving App](http://lunar.lostgarden.com/Mixing_Games_and_Applications.pdf)
 
