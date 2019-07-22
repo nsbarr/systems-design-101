@@ -6,6 +6,8 @@ Systems designers are well-suited for product and game design, the creation and 
 
 ## Materials
 
+brown, adrienne marie. [Emergent Strategy](https://www.amazon.com/Emergent-Strategy-Shaping-Change-Changing/dp/1849352607)
+
 Burbea, Robert. [Seeing that Frees](https://www.amazon.com/Seeing-That-Frees-Robert-Burbea/dp/0992848911)
 
 Chapman, David. [Meaningness](https://meaningness.com/)
